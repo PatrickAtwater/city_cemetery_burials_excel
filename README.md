@@ -22,4 +22,19 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
 
-#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story. 
+#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
+
+##PCA Questions
+1. Marketing material means pdf? or it means excel? something that could be linked or embedded in a pdf
+2. MVP would be series of marketing dashboards that would generate interest in the cemetery/
+3. What kinds of stats have you felt were effective in the past? What is the demographic of people who are interested in this stuff? What is a new demographic that you are interested in.
+4. Are there particular areas of your data that would be helpful to have insight about>
+
+/Notes/
+timeline, cause of death, agae, historical figures
+infographic
+handout/mailer/ try fold
+story from graph to graph
+MVP- sheet in excel with some some description explaining the charts but also extension to potentially embedding
+
+Civil war, historical outbreaks of disease, historical angle
