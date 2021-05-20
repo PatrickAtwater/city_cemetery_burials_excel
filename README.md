@@ -16,11 +16,18 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 6. Create a new column titled Last Name. Extract the last name from the Name column by subsetting to all characters to the left of the comma (see the DataCamp exercise titled “String Information – LEN, SEARCH” from the Data Analysis with Spreadsheets if you need help with this). This will result in many errors for rows missing commas.   
     a. 	Drill down to those rows without a comma – what do you notice?  
+    children, or servants, or slaves
+
     b.	What are the most common last names of people buried in this cemetery?  
+    Smith, Brown, Johnson, Jones, Williams, green
+
+
     c.	There was a particularly famous person buried in this cemetery. Can you find that person?
+President Polk
+
 
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
-
+slaves, servants and children buried in 50p, 200p (Negro lots)
 
 #### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
 
